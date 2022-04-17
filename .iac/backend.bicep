@@ -1,6 +1,6 @@
 targetScope = 'subscription'
 
-//common parameters
+///common parameters
 param resourceGroupLocation string 
 param rgBackendName string
 param tagCostCenter string
