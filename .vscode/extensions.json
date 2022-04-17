@@ -1,6 +1,11 @@
 {
-  "recommendations": [
-    "ms-azuretools.vscode-azurefunctions",
-    "ms-dotnettools.csharp"
-  ]
+    "recommendations": [
+        "me-dutour-mathieu.vscode-github-actions",
+        "ms-vscode.azure-account",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-azuretools.vscode-azurestorage",
+        "ms-azuretools.vscode-bicep",
+        "ms-dotnettools.csharp"
+    ]
 }
